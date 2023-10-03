@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Kartel',
-  author: 'Tails Azimuth',
+  author: 'Korea University',
   headerTitle: 'Kartel',
   description: 'Blockchain Scalability Lab',
   language: 'en-us',
