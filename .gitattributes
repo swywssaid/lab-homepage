@@ -200,3 +200,7 @@ Procfile          text
 
 # Ignore files (like .npmignore or .gitignore)
 *.*ignore         text
+
+*.html linguist-vendored
+*.mdx linguist-vendored
+*.js linguist-vendored
